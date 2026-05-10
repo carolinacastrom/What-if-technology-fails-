@@ -1,0 +1,2394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260510122410XPJN40</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260510122410OINDPP</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>What If Technology Fails?</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Social Media, Communication and Conditional Thinking</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Carolina Castro Moreno</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Students reflect on the use of technology and social media in their daily lives and in digital communication. Based on real or hypothetical situations, they will analyze issues such as: misunderstandings on social media, technical failures, excessive use of technology, difficulties in online communication.
+
+Through these situations, they will work on conditional sentences in order to: describe situations, analyze consequences, propose solutions.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778403122016</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mozjadgm-yo8bwahyi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introduction</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introduction</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introduction</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introduction</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozjadgm-yo8bwahyi</odePageId>
+      <odeBlockId>block-1778326309695-1ex6nce3g</odeBlockId>
+      <blockName>Welcome!</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgm-yo8bwahyi</odePageId>
+          <odeBlockId>block-1778326309695-1ex6nce3g</odeBlockId>
+          <odeIdeviceId>idevice-1778326309688-kmrjvarlq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Welcome to <strong><em>What if Technology Fails?</em></strong>,<em></em><strong><em> </em></strong>guys!</p>
+<p>In this project, you will explore how technology and social media influence our daily lives and communication. Through interactive activities, games, discussions and collaborative tasks, you will practise English conditionals while reflecting on real digital problems and possible solutions.</p>
+<p>You will also develop your speaking, critical thinking and digital skills by creating a Canva presentation and sharing your ideas with your classmates.</p>
+<p>Are you ready to imagine, create and think critically in English?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778326309688-kmrjvarlq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Welcome to <strong><em>What if Technology Fails?</em></strong>,<em></em><strong><em> </em></strong>guys!</p>\n<p>In this project, you will explore how technology and social media influence our daily lives and communication. Through interactive activities, games, discussions and collaborative tasks, you will practise English conditionals while reflecting on real digital problems and possible solutions.</p>\n<p>You will also develop your speaking, critical thinking and digital skills by creating a Canva presentation and sharing your ideas with your classmates.</p>\n<p>Are you ready to imagine, create and think critically in English?</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadgm-yo8bwahyi</odePageId>
+      <odeBlockId>block-1778326628596-bblv63191</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgm-yo8bwahyi</odePageId>
+          <odeBlockId>block-1778326628596-bblv63191</odeBlockId>
+          <odeIdeviceId>idevice-1778326628591-prs5wfpt9</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778326628591-prs5wfpt9" title="" href="{{context_path}}/content/resources/alexandra_koch-ai-generated-7827608_1920.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/alexandra_koch-ai-generated-7827608_1920.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="https://pixabay.com/es/photos/generado-por-ai-robot-escuela-clase-7827608/" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778326628591-prs5wfpt9","img_0":{"img":"{{context_path}}/content/resources/alexandra_koch-ai-generated-7827608_1920.jpg","thumbnail":"{{context_path}}/content/resources/alexandra_koch-ai-generated-7827608_1920.jpg","title":"","linktitle":"","author":"","linkauthor":"https://pixabay.com/es/photos/generado-por-ai-robot-escuela-clase-7827608/","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozjadgq-csv2eismt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Think before you click!</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Think before you click!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Think before you click!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozjadgq-csv2eismt</odePageId>
+      <odeBlockId>block-1778327820465-ytgsx4phr</odeBlockId>
+      <blockName>How important is it to be safe online?</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgq-csv2eismt</odePageId>
+          <odeBlockId>block-1778327820465-ytgsx4phr</odeBlockId>
+          <odeIdeviceId>idevice-1778327820461-vw75398os</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>With the infographic below you can learn some important tips about online safety and responsible use of technology. Through this infographic, you will also reflect on topics such as privacy, digital identity, passwords, fake information and respectful communication on social media. The aim is to help you become more aware, critical and responsible digital users.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778327820461-vw75398os","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>With the infographic below you can learn some important tips about online safety and responsible use of technology. Through this infographic, you will also reflect on topics such as privacy, digital identity, passwords, fake information and respectful communication on social media. The aim is to help you become more aware, critical and responsible digital users.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadgq-csv2eismt</odePageId>
+      <odeBlockId>block-1778327976925-daf0hlkma</odeBlockId>
+      <blockName>Your digital footprint matters!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgq-csv2eismt</odePageId>
+          <odeBlockId>block-1778327976925-daf0hlkma</odeBlockId>
+          <odeIdeviceId>idevice-1778327976919-lgjkx1e1w</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778327976919-lgjkx1e1w" title="" href="{{context_path}}/content/resources/Infografía sobre Seguridad en internet en Azul blanco Simple.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Infografía sobre Seguridad en internet en Azul blanco Simple.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="https://canva.link/1pkzrz7bjnsn7n4" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778327976919-lgjkx1e1w","img_0":{"img":"{{context_path}}/content/resources/Infografía sobre Seguridad en internet en Azul blanco Simple.jpg","thumbnail":"{{context_path}}/content/resources/Infografía sobre Seguridad en internet en Azul blanco Simple.jpg","title":"","linktitle":"","author":"","linkauthor":"https://canva.link/1pkzrz7bjnsn7n4","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozjadgt-m6fv7kmc8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Timeline</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Timeline</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Timeline</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozjadgt-m6fv7kmc8</odePageId>
+      <odeBlockId>block-1778345286052-phu2egyeq</odeBlockId>
+      <blockName>Our timeline</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgt-m6fv7kmc8</odePageId>
+          <odeBlockId>block-1778345286052-phu2egyeq</odeBlockId>
+          <odeIdeviceId>idevice-1778345286028-o55970bsf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Throughout this project, you will complete different activities step by step to help you develop your language, digital and communication skills. This timeline will guide you through each stage of the project, from reflecting on technology and social media to creating and presenting your final Canva presentation. Follow the sequence carefully so you can stay organised, keep track of your progress and successfully complete each task.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778345286028-o55970bsf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Throughout this project, you will complete different activities step by step to help you develop your language, digital and communication skills. This timeline will guide you through each stage of the project, from reflecting on technology and social media to creating and presenting your final Canva presentation. Follow the sequence carefully so you can stay organised, keep track of your progress and successfully complete each task.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadgt-m6fv7kmc8</odePageId>
+      <odeBlockId>block-1778345338835-aon2ctot0</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgt-m6fv7kmc8</odePageId>
+          <odeBlockId>block-1778345338835-aon2ctot0</odeBlockId>
+          <odeIdeviceId>idevice-1778345338830-awg6fwn4u</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778345338830-awg6fwn4u" title="" href="{{context_path}}/content/resources/Línea del tiempo (1).jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Línea del tiempo (1).jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="https://canva.link/mq4v51tf25a0p55" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778345338830-awg6fwn4u","img_2":{"img":"{{context_path}}/content/resources/Línea del tiempo (1).jpg","thumbnail":"{{context_path}}/content/resources/Línea del tiempo (1).jpg","title":"","linktitle":"","author":"","linkauthor":"https://canva.link/mq4v51tf25a0p55","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozjadgv-v38zrgu6z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Your turn!</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Your turn!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Your turn!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Your turn!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozjadgv-v38zrgu6z</odePageId>
+      <odeBlockId>block-1778346953053-yxlzd0x2a</odeBlockId>
+      <blockName></blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgv-v38zrgu6z</odePageId>
+          <odeBlockId>block-1778346953053-yxlzd0x2a</odeBlockId>
+          <odeIdeviceId>idevice-1778346953038-xqfngj0uc</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778346953038-xqfngj0uc" title="" href="{{context_path}}/content/resources/geralt-teamwork-4338949_1920.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/geralt-teamwork-4338949_1920.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="https://pixabay.com/es/photos/trabajo-en-equipo-equipo-%c3%a9xito-4338949/" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778346953038-xqfngj0uc","img_0":{"img":"{{context_path}}/content/resources/geralt-teamwork-4338949_1920.jpg","thumbnail":"{{context_path}}/content/resources/geralt-teamwork-4338949_1920.jpg","title":"","linktitle":"","author":"","linkauthor":"https://pixabay.com/es/photos/trabajo-en-equipo-equipo-%c3%a9xito-4338949/","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadgv-v38zrgu6z</odePageId>
+      <odeBlockId>block-1778346703505-meedd8wc5</odeBlockId>
+      <blockName>What do you have to do in this unit?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgv-v38zrgu6z</odePageId>
+          <odeBlockId>block-1778346703505-meedd8wc5</odeBlockId>
+          <odeIdeviceId>idevice-1778346703499-kap7maag7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Follow this <a href="https://canva.link/5ry802x1lmn8q9e" target="_blank" title="" rel="noopener">link</a> to discover the contents with which you will work in this unit along with the description of the final project that you will have to complete in groups, in which you will be expected to design a presentation by using Canva as a guide to use in an oral exposition.</p>
+<p>Time to start working!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778346703499-kap7maag7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Follow this <a href=\"https://canva.link/5ry802x1lmn8q9e\" target=\"_blank\" title=\"\" rel=\"noopener\">link</a> to discover the contents with which you will work in this unit along with the description of the final project that you will have to complete in groups, in which you will be expected to design a presentation by using Canva as a guide to use in an oral exposition.</p>\n<p>Time to start working!</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozjadgw-bthxw2dnv</odePageId>
+  <odeParentPageId>page-mozjadgv-v38zrgu6z</odeParentPageId>
+  <pageName>Session 1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Session 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Session 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Session 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozjadgw-bthxw2dnv</odePageId>
+      <odeBlockId>block-1778350136310-xjihr0ib4</odeBlockId>
+      <blockName>Exploring digital life and conditionals</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgw-bthxw2dnv</odePageId>
+          <odeBlockId>block-1778350136310-xjihr0ib4</odeBlockId>
+          <odeIdeviceId>idevice-1778350136300-8krhsq05h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>In this session, you will reflect on your use of technology and social media while practising English conditionals through different interactive activities.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778350136300-8krhsq05h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>In this session, you will reflect on your use of technology and social media while practising English conditionals through different interactive activities.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadgw-bthxw2dnv</odePageId>
+      <odeBlockId>block-1778349652877-kqx7e112y</odeBlockId>
+      <blockName>My digital habits</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgw-bthxw2dnv</odePageId>
+          <odeBlockId>block-1778349652877-kqx7e112y</odeBlockId>
+          <odeIdeviceId>idevice-1778349652876-euq8gapjy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>20:00</dd></div><div class="inline"><dt><span title="Pair work">Pair work</span></dt><dd></dd></div></dl><p>Work in pairs. Start by talking about your digital habits. Answer the following questions about your use of social media and time online and compare your answers in pairs.</p>
+<ol>
+<li>How much time do you usually spend online every day?</li>
+<li>What social media platforms do you use most often? Why?</li>
+<li>Do you check your phone first thing in the morning?</li>
+<li>Have you ever felt stressed because of social media?</li>
+<li>Do you think you could live without your smartphone for one day? Why / why not?</li>
+<li>What is the most positive thing about social media for you?</li>
+<li>What is the biggest problem related to social media in your opinion?</li>
+<li>Have you ever had a negative experience online? (If you want, you can explain briefly)</li>
+<li>Do you think people share too much personal information online?</li>
+<li>How do you usually communicate with friends: messages, calls, social media, or in person? Why?</li>
+</ol></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778349652876-euq8gapjy","textInfoDurationInput":"20:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Pair work","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>20:00</dd></div><div class=\"inline\"><dt><span title=\"Pair work\">Pair work</span></dt><dd></dd></div></dl><p>Work in pairs. Start by talking about your digital habits. Answer the following questions about your use of social media and time online and compare your answers in pairs.</p>\n<ol>\n<li>How much time do you usually spend online every day?</li>\n<li>What social media platforms do you use most often? Why?</li>\n<li>Do you check your phone first thing in the morning?</li>\n<li>Have you ever felt stressed because of social media?</li>\n<li>Do you think you could live without your smartphone for one day? Why / why not?</li>\n<li>What is the most positive thing about social media for you?</li>\n<li>What is the biggest problem related to social media in your opinion?</li>\n<li>Have you ever had a negative experience online? (If you want, you can explain briefly)</li>\n<li>Do you think people share too much personal information online?</li>\n<li>How do you usually communicate with friends: messages, calls, social media, or in person? Why?</li>\n</ol></div>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadgw-bthxw2dnv</odePageId>
+      <odeBlockId>block-1778349937305-hs4dxkh9l</odeBlockId>
+      <blockName>Grammar &amp; discussion: If technology disappeared…</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgw-bthxw2dnv</odePageId>
+          <odeBlockId>block-1778349937305-hs4dxkh9l</odeBlockId>
+          <odeIdeviceId>idevice-1778349937302-6r07g3vxl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>40:00</dd></div><div class="inline"><dt><span title="Group work">Group work</span></dt><dd></dd></div></dl><p>In groups, discuss different situations related to technology and social media. Use conditional sentences to explain what could happen, giving opinions, causes and consequences. You can use the presentations posted in the section <em>Student support </em>as help.</p>
+<ol>
+<li>If smartphones disappeared tomorrow, how would your daily life change?<br />What would you do differently during the day?</li>
+<li>If social media no longer existed, how would people communicate with each other?<br />Would life be better or worse?</li>
+<li>If the internet stopped working for a week, what problems would people face at work or school?<br />How would you solve them?</li>
+<li>If online banking disappeared, how would people manage their money?<br />What alternatives would they use?</li>
+<li>If nobody had access to GPS or maps apps, how would people travel or find places?<br />Would it be difficult?</li>
+<li>If artificial intelligence tools suddenly stopped working, how would students and workers be affected?<br />What tasks would become more difficult?</li>
+</ol></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778349937302-6r07g3vxl","textInfoDurationInput":"40:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Group work","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>40:00</dd></div><div class=\"inline\"><dt><span title=\"Group work\">Group work</span></dt><dd></dd></div></dl><p>In groups, discuss different situations related to technology and social media. Use conditional sentences to explain what could happen, giving opinions, causes and consequences. You can use the presentations posted in the section <em>Student support </em>as help.</p>\n<ol>\n<li>If smartphones disappeared tomorrow, how would your daily life change?<br />What would you do differently during the day?</li>\n<li>If social media no longer existed, how would people communicate with each other?<br />Would life be better or worse?</li>\n<li>If the internet stopped working for a week, what problems would people face at work or school?<br />How would you solve them?</li>\n<li>If online banking disappeared, how would people manage their money?<br />What alternatives would they use?</li>\n<li>If nobody had access to GPS or maps apps, how would people travel or find places?<br />Would it be difficult?</li>\n<li>If artificial intelligence tools suddenly stopped working, how would students and workers be affected?<br />What tasks would become more difficult?</li>\n</ol></div>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadgw-bthxw2dnv</odePageId>
+      <odeBlockId>block-1778350286802-46t76dyva</odeBlockId>
+      <blockName>Grammar auction: Conditionals challenge</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgw-bthxw2dnv</odePageId>
+          <odeBlockId>block-1778350286802-46t76dyva</odeBlockId>
+          <odeIdeviceId>idevice-1778350286795-nn4bxet7m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>40:00</dd></div><div class="inline"><dt><span title="Group work">Group work</span></dt><dd></dd></div></dl><p>Let's check if you have understood how conditionals work by playing this <a href="https://canva.link/7dxdxx8xdi844lv" title="">game</a>!</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778350286795-nn4bxet7m","textInfoDurationInput":"40:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Group work","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>40:00</dd></div><div class=\"inline\"><dt><span title=\"Group work\">Group work</span></dt><dd></dd></div></dl><p>Let's check if you have understood how conditionals work by playing this <a href=\"https://canva.link/7dxdxx8xdi844lv\" title=\"\">game</a>!</p></div>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadgw-bthxw2dnv</odePageId>
+      <odeBlockId>block-1778350399887-8e090tvzi</odeBlockId>
+      <blockName>Listening &amp; oral mediation</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgw-bthxw2dnv</odePageId>
+          <odeBlockId>block-1778350399887-8e090tvzi</odeBlockId>
+          <odeIdeviceId>idevice-1778350399882-7bidaj7tf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Your friend Peter has recently been spending a lot of time online and has started to feel stressed and confused about whether social media is actually good or bad for him. Because of this, your friend has asked you for advice.</p>
+<p>You find a video that explains the advantages and disadvantages of social media, and you decide to help by summarising the most important information.</p>
+<p>Your task:<br />You must send a voice message in English to your friend explaining the key ideas from the video in a clear and simple way.</p>
+<p> Use the following video to send him a 2-minute voice message.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778350399882-7bidaj7tf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Your friend Peter has recently been spending a lot of time online and has started to feel stressed and confused about whether social media is actually good or bad for him. Because of this, your friend has asked you for advice.</p>\n<p>You find a video that explains the advantages and disadvantages of social media, and you decide to help by summarising the most important information.</p>\n<p>Your task:<br />You must send a voice message in English to your friend explaining the key ideas from the video in a clear and simple way.</p>\n<p> Use the following video to send him a 2-minute voice message.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadgw-bthxw2dnv</odePageId>
+      <odeBlockId>block-1778350857038-5c425hn3w</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgw-bthxw2dnv</odePageId>
+          <odeBlockId>block-1778350857038-5c425hn3w</odeBlockId>
+          <odeIdeviceId>idevice-1778350857016-5201ak4ws</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="560" height="314" src="https://www.youtube.com/embed/DnKpnojwz2M" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778350857016-5201ak4ws","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/DnKpnojwz2M\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadgw-bthxw2dnv</odePageId>
+      <odeBlockId>block-1778403280087-9w8fe36xq</odeBlockId>
+      <blockName>Memory game</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgw-bthxw2dnv</odePageId>
+          <odeBlockId>block-1778403280087-9w8fe36xq</odeBlockId>
+          <odeIdeviceId>idevice-1778403280085-j5pxjfo5r</odeIdeviceId>
+          <odeIdeviceTypeName>flipcards</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="flipcards-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778403280085-j5pxjfo5r" data-evaluationb="false" data-evaluationid="7191ad5d-60b6-4702-acf5-71f745b72841"></div><div class="flipcards-instructions"><p>Play a memory game to practise vocabulary related to social media and technology with your partner!</p>
+<p>Click on the cards to see what they hide. Try to match the words with their corresponding meanings.</p>
+<p><br /></p></div><div class="flipcards-DataGame js-hidden">{"typeGame":"FlipCards","author":"","randomCards":true,"instructions":"<p>Play a memory game to practise vocabulary related to social media and technology with your partner!</p>\n<p>Click on the cards to see what they hide. Try to match the words with their corresponding meanings.</p>\n<p><br /></p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"","x":0,"y":0,"author":"","alt":"","audio":"{{context_path}}/content/resources/audio-rec-20260510-105804.webm","color":"#000000","backcolor":"#e9f084","eText":"Disinformation","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"False%20or%20misleading%20information%20spread%20deliberately%20to%20deceive."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"{{context_path}}/content/resources/audio-rec-20260510-105957.webm","color":"#000000","backcolor":"#e0e788","eText":"Virality","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"The%20tendency%20of%20an%20image%2C%20video%20or%20piece%20of%20information%20to%20circulate%20rapidly%20and%20widely%20from%20one%20Internet%20user%20to%20another."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"{{context_path}}/content/resources/audio-rec-20260510-110438.webm","color":"#000000","backcolor":"#f5f7a1","eText":"Digital%20footprint","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Unique%20trail%20of%20data%20you%20leave%20behind%20while%20using%20the%20Internet."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"{{context_path}}/content/resources/audio-rec-20260510-110637.webm","color":"#000000","backcolor":"#ffa8ec","eText":"Blow%20up","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"To%20become%20popular%20very%20quickly."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"{{context_path}}/content/resources/audio-rec-20260510-110720.webm","color":"#000000","backcolor":"#ec8989","eText":"Figure%20out","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Find%20the%20solution%20to%20a%20problem."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"{{context_path}}/content/resources/audio-rec-20260510-110809.webm","color":"#000000","backcolor":"#9699ee","eText":"Keep%20up%20with","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"To%20stay%20informed%20or%20updated%20about%20something."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"{{context_path}}/content/resources/audio-rec-20260510-110937.webm","color":"#000000","backcolor":"#f4a380","eText":"Username","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"The%20unique%20identifier%20for%20an%20account."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"{{context_path}}/content/resources/audio-rec-20260510-111006.webm","color":"#000000","backcolor":"#94cdf0","eText":"Profile","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"%20A%20dedicated%20page%20displaying%20a%20user's%20personal%20information%20and%20post%20history."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"{{context_path}}/content/resources/audio-rec-20260510-111117.webm","color":"#000000","backcolor":"#9bf6f8","eText":"Cyberbullying","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Using%20social%20media%20to%20intimidate%2C%20threaten%2C%20or%20harass%20someone."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"{{context_path}}/content/resources/audio-rec-20260510-111208.webm","color":"#000000","backcolor":"#d1e27e","eText":"Clickbait","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Specific%20words%20or%20pictures%20to%20attract%20the%20users%E2%80%99%20attention%20and%20prompt%20them%20into%20clicking%20on%20their%20links."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"{{context_path}}/content/resources/audio-rec-20260510-111304.webm","color":"#000000","backcolor":"#fba7a7","eText":"Follower","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"A%20person%20who%20can%20see%20the%20content%20you%20share%20on%20your%20social%20medium."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"{{context_path}}/content/resources/audio-rec-20260510-111419.webm","color":"#000000","backcolor":"#ffb3b3","eText":"Scroll%20down","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"To%20move%20the%20content%20on%20a%20screen%20or%20digital%20display%20downward."}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","percentajeCards":100,"version":1.3,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"7191ad5d-60b6-4702-acf5-71f745b72841","imgCard":"","id":"idevice-1778403280085-j5pxjfo5r","msgs":{"msgSubmit":"Submit","msgClue":"Cool! The clue is:","msgCodeAccess":"Access code","msgPlayAgain":"Play Again","msgPlayStart":"Click here to play","msgScore":"Score","msgWeight":"Weight","msgErrors":"Errors","msgHits":"Hits","msgMinimize":"Minimize","msgMaximize":"Maximize","msgCool":"Cool!","msgFullScreen":"Full Screen","msgExitFullScreen":"Exit Full Screen","msgSuccesses":"Right! | Excellent! | Great! | Very good! | Perfect!","msgFailures":"It was not that! | Incorrect! | Not correct! | Sorry! | Error!","msgNoImage":"No picture question","msgEndGameScore":"Please start the game before saving your score.","msgScoreScorm":"The score can't be saved because this page is not part of a SCORM package.","msgOnlySaveScore":"You can only save the score once!","msgOnlySave":"You can only save once","msgInformation":"Information","msgYouScore":"Your score","msgAuthor":"Authorship","msgOnlySaveAuto":"Your score will be saved after each question. You can only play once.","msgSaveAuto":"Your score will be automatically saved after each question.","msgSeveralScore":"You can save the score as many times as you want","msgYouLastScore":"The last score saved is","msgActityComply":"You have already done this activity.","msgPlaySeveralTimes":"You can do this activity as many times as you want","msgClose":"Close","msgAudio":"Audio","msgPreviousCard":"Previous","msgNextCard":"Next","msgNumQuestions":"Number of cards","msgTrue":"True","msgFalse":"False","msgTryAgain":"You need at least %s% of correct answers to get the information. Please try again.","mgsAllQuestions":"Questions completed!","msgTrue1":"Right. That's the card.","msgTrue2":"You're wrong. That's not the card.","msgFalse1":"Right. That's not the card.","msgFalse2":"You're wrong. That's the card.","mgsClickCard":"Click on the card","msgEndTime":"Game time is over. Your score is %s.","msgEnd":"Finish","msgEndGameM":"You finished the game. Your score is %s.","msgUncompletedActivity":"Incomplete activity","msgSuccessfulActivity":"Activity: Passed. Score: %s","msgUnsuccessfulActivity":"Activity: Not passed. Score: %s","msgTypeGame":"Memory cards"}}</div><a href="{{context_path}}/content/resources/audio-rec-20260510-105804.webm" class="js-hidden flipcards-LinkAudios">0</a><a href="{{context_path}}/content/resources/audio-rec-20260510-105957.webm" class="js-hidden flipcards-LinkAudios">1</a><a href="{{context_path}}/content/resources/audio-rec-20260510-110438.webm" class="js-hidden flipcards-LinkAudios">2</a><a href="{{context_path}}/content/resources/audio-rec-20260510-110637.webm" class="js-hidden flipcards-LinkAudios">3</a><a href="{{context_path}}/content/resources/audio-rec-20260510-110720.webm" class="js-hidden flipcards-LinkAudios">4</a><a href="{{context_path}}/content/resources/audio-rec-20260510-110809.webm" class="js-hidden flipcards-LinkAudios">5</a><a href="{{context_path}}/content/resources/audio-rec-20260510-110937.webm" class="js-hidden flipcards-LinkAudios">6</a><a href="{{context_path}}/content/resources/audio-rec-20260510-111006.webm" class="js-hidden flipcards-LinkAudios">7</a><a href="{{context_path}}/content/resources/audio-rec-20260510-111117.webm" class="js-hidden flipcards-LinkAudios">8</a><a href="{{context_path}}/content/resources/audio-rec-20260510-111208.webm" class="js-hidden flipcards-LinkAudios">9</a><a href="{{context_path}}/content/resources/audio-rec-20260510-111304.webm" class="js-hidden flipcards-LinkAudios">10</a><a href="{{context_path}}/content/resources/audio-rec-20260510-111419.webm" class="js-hidden flipcards-LinkAudios">11</a><div class="flipcards-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozjadgz-hvl0r1at4</odePageId>
+  <odeParentPageId>page-mozjadgv-v38zrgu6z</odeParentPageId>
+  <pageName>Session 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Session 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Session 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozjadgz-hvl0r1at4</odePageId>
+      <odeBlockId>block-1778351305704-g3uz92bko</odeBlockId>
+      <blockName>Designing your presentation</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgz-hvl0r1at4</odePageId>
+          <odeBlockId>block-1778351305704-g3uz92bko</odeBlockId>
+          <odeIdeviceId>idevice-1778351305702-yfqlr05zq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>In this second session, you will move from exploring ideas to creating your final group project. You will review key grammar points, especially conditional sentences, and then apply everything you have learned to design a Canva presentation about real digital problems related to social media and technology. Finally, you will present your work to the class and take part in a voting activity to reflect on and evaluate your classmates’ presentations.</p>
+<p>Let's get down to bussiness!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778351305702-yfqlr05zq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>In this second session, you will move from exploring ideas to creating your final group project. You will review key grammar points, especially conditional sentences, and then apply everything you have learned to design a Canva presentation about real digital problems related to social media and technology. Finally, you will present your work to the class and take part in a voting activity to reflect on and evaluate your classmates’ presentations.</p>\n<p>Let's get down to bussiness!</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadgz-hvl0r1at4</odePageId>
+      <odeBlockId>block-1778351323267-41okb1xtj</odeBlockId>
+      <blockName>Warm-up: conditionals and social media</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgz-hvl0r1at4</odePageId>
+          <odeBlockId>block-1778351323267-41okb1xtj</odeBlockId>
+          <odeIdeviceId>idevice-1778351323265-p2omo4eyl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>25:00</dd></div><div class="inline"><dt><span title="Pairs">Pairs</span></dt><dd></dd></div></dl><p>Answer the following questions in the <a href="https://wordwall.net/es/resource/2656265/social-media" title="">speaking wheel</a> by using conditionals and the previous vocabulary from session 1.</p>
+<p></p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778351323265-p2omo4eyl","textInfoDurationInput":"25:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Pairs","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>25:00</dd></div><div class=\"inline\"><dt><span title=\"Pairs\">Pairs</span></dt><dd></dd></div></dl><p>Answer the following questions in the <a href=\"https://wordwall.net/es/resource/2656265/social-media\" title=\"\">speaking wheel</a> by using conditionals and the previous vocabulary from session 1.</p>\n<p></p>\n<p><br /></p></div>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadgz-hvl0r1at4</odePageId>
+      <odeBlockId>block-1778351626298-h8hnqy11n</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgz-hvl0r1at4</odePageId>
+          <odeBlockId>block-1778351626298-h8hnqy11n</odeBlockId>
+          <odeIdeviceId>idevice-1778351626286-1s2urkuuq</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778351626286-1s2urkuuq" title="" href="{{context_path}}/content/resources/firmbee-social-media-763731.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/firmbee-social-media-763731.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="https://pixabay.com/es/photos/medios-de-comunicaci%c3%b3n-social-763731/" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778351626286-1s2urkuuq","img_0":{"img":"{{context_path}}/content/resources/firmbee-social-media-763731.jpg","thumbnail":"{{context_path}}/content/resources/firmbee-social-media-763731.jpg","title":"","linktitle":"","author":"","linkauthor":"https://pixabay.com/es/photos/medios-de-comunicaci%c3%b3n-social-763731/","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadgz-hvl0r1at4</odePageId>
+      <odeBlockId>block-1778351692956-3ez7q41j2</odeBlockId>
+      <blockName>Planning the presentation</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgz-hvl0r1at4</odePageId>
+          <odeBlockId>block-1778351692956-3ez7q41j2</odeBlockId>
+          <odeIdeviceId>idevice-1778351692954-s2p5p5rdf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>75:00</dd></div><div class="inline"><dt><span title="Group work">Group work</span></dt><dd></dd></div></dl><p>Create a <strong>Canva presentation</strong> about a situation related to social media, technology or digital communication.</p>
+<p>You must include:</p>
+<p>a description of a problem<br />its causes<br />its consequences<br />possible solutions<br />conditional sentences (zero, first, second and third conditionals).</p>
+<p>Use the section <em>Final task</em> as help to complete your task.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778351692954-s2p5p5rdf","textInfoDurationInput":"75:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Group work","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>75:00</dd></div><div class=\"inline\"><dt><span title=\"Group work\">Group work</span></dt><dd></dd></div></dl><p>Create a <strong>Canva presentation</strong> about a situation related to social media, technology or digital communication.</p>\n<p>You must include:</p>\n<p>a description of a problem<br />its causes<br />its consequences<br />possible solutions<br />conditional sentences (zero, first, second and third conditionals).</p>\n<p>Use the section <em>Final task</em> as help to complete your task.</p></div>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadgz-hvl0r1at4</odePageId>
+      <odeBlockId>block-1778351808832-ttjvk1uhd</odeBlockId>
+      <blockName>Oral presentation &amp; voting</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgz-hvl0r1at4</odePageId>
+          <odeBlockId>block-1778351808832-ttjvk1uhd</odeBlockId>
+          <odeIdeviceId>idevice-1778351808826-3wp9qrjn4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Each group will present their project orally to the class using their Canva presentation as a guide. After all presentations, you will vote for the best one by using Mentimeter.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778351808826-3wp9qrjn4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Each group will present their project orally to the class using their Canva presentation as a guide. After all presentations, you will vote for the best one by using Mentimeter.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadgz-hvl0r1at4</odePageId>
+      <odeBlockId>block-1778351924501-nzxj4bndk</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadgz-hvl0r1at4</odePageId>
+          <odeBlockId>block-1778351924501-nzxj4bndk</odeBlockId>
+          <odeIdeviceId>idevice-1778351924484-q04ddg757</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778351924484-q04ddg757" title="" href="{{context_path}}/content/resources/ikruemel-survey-7046888.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/ikruemel-survey-7046888.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="https://pixabay.com/es/photos/encuesta-realimentaci%c3%b3n-evaluaci%c3%b3n-7046888/" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778351924484-q04ddg757","img_0":{"img":"{{context_path}}/content/resources/ikruemel-survey-7046888.jpg","thumbnail":"{{context_path}}/content/resources/ikruemel-survey-7046888.jpg","title":"","linktitle":"","author":"","linkauthor":"https://pixabay.com/es/photos/encuesta-realimentaci%c3%b3n-evaluaci%c3%b3n-7046888/","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozjadh1-fhjzjkb8e</odePageId>
+  <odeParentPageId>page-mozjadgv-v38zrgu6z</odeParentPageId>
+  <pageName>Final task</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Final task</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Final task</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozjadh1-fhjzjkb8e</odePageId>
+      <odeBlockId>block-1778349042278-tqst9nenp</odeBlockId>
+      <blockName>Would you like to discover your final task? Check it out here!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadh1-fhjzjkb8e</odePageId>
+          <odeBlockId>block-1778349042278-tqst9nenp</odeBlockId>
+          <odeIdeviceId>idevice-1778349042275-j3m65yvpp</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778349042275-j3m65yvpp" title="" href="{{context_path}}/content/resources/Final task.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Final task.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="https://canva.link/vf54r3aljlqnhn1" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778349042275-j3m65yvpp","img_0":{"img":"{{context_path}}/content/resources/Final task.jpg","thumbnail":"{{context_path}}/content/resources/Final task.jpg","title":"","linktitle":"","author":"","linkauthor":"https://canva.link/vf54r3aljlqnhn1","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozjadh1-lk21vo13n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Teaching help hub</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Teaching help hub</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Teaching help hub</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozjadh1-lk21vo13n</odePageId>
+      <odeBlockId>block-1778328726769-byia8ejwa</odeBlockId>
+      <blockName></blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadh1-lk21vo13n</odePageId>
+          <odeBlockId>block-1778328726769-byia8ejwa</odeBlockId>
+          <odeIdeviceId>idevice-1778328726760-2qwbfkrz4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>In this <a href="https://www.symbaloo.com/shared/AAAAAwFwuocAA41_W3R2YA==" title="">Symbaloo</a>, you will find a curated collection of digital tools and resources that you can use in your daily teaching practice. It includes platforms for creating interactive activities, gamification tools, assessment resources and applications for classroom management and communication. The aim is to provide you with quick and easy access to practical tools such as <em>Canva, Wordwall, Mentimeter</em> or <em>Educaplay</em>, among others, to support your teaching and enhance student engagement in a digital learning environment.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778328726760-2qwbfkrz4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>In this <a href=\"https://www.symbaloo.com/shared/AAAAAwFwuocAA41_W3R2YA==\" title=\"\">Symbaloo</a>, you will find a curated collection of digital tools and resources that you can use in your daily teaching practice. It includes platforms for creating interactive activities, gamification tools, assessment resources and applications for classroom management and communication. The aim is to provide you with quick and easy access to practical tools such as <em>Canva, Wordwall, Mentimeter</em> or <em>Educaplay</em>, among others, to support your teaching and enhance student engagement in a digital learning environment.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozjadh2-6peeo1y8r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Student support</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Student support</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Student support</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Student support</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozjadh2-6peeo1y8r</odePageId>
+      <odeBlockId>block-1778328319998-h99mmfazz</odeBlockId>
+      <blockName></blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadh2-6peeo1y8r</odePageId>
+          <odeBlockId>block-1778328319998-h99mmfazz</odeBlockId>
+          <odeIdeviceId>idevice-1778328319995-71idoehxv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>By using this <a href="https://padlet.com/carolinacastro1/conditional-thinking-in-the-digital-era-fqn54arm4ovd12rj" title="">Padlet</a>, “Conditional Thinking in the Digital Era”, you will find a selection of useful resources to help you during the project. It includes videos, games, vocabulary activities and grammar explanations about conditionals, social media and digital communication. You can use these materials to review, practise and improve your understanding at your own pace, both in class and at home, so you feel more confident when completing the final task.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778328319995-71idoehxv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>By using this <a href=\"https://padlet.com/carolinacastro1/conditional-thinking-in-the-digital-era-fqn54arm4ovd12rj\" title=\"\">Padlet</a>, “Conditional Thinking in the Digital Era”, you will find a selection of useful resources to help you during the project. It includes videos, games, vocabulary activities and grammar explanations about conditionals, social media and digital communication. You can use these materials to review, practise and improve your understanding at your own pace, both in class and at home, so you feel more confident when completing the final task.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozjadh3-ut8b2c7ec</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Teaching guide</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Teaching guide</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Teaching guide</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozjadh3-ut8b2c7ec</odePageId>
+      <odeBlockId>block-1778348368204-7ciz0yz88</odeBlockId>
+      <blockName></blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadh3-ut8b2c7ec</odePageId>
+          <odeBlockId>block-1778348368204-7ciz0yz88</odeBlockId>
+          <odeIdeviceId>idevice-1778348368193-yd6s1pqs5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>In this section, you will find the assessment criteria for the different tasks included in this unit, as well as the evaluation tools that will be used throughout the project. These resources are intended to help you understand what is expected in each activity and how your work, participation and language development will be assessed during the learning process.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778348368193-yd6s1pqs5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>In this section, you will find the assessment criteria for the different tasks included in this unit, as well as the evaluation tools that will be used throughout the project. These resources are intended to help you understand what is expected in each activity and how your work, participation and language development will be assessed during the learning process.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadh3-ut8b2c7ec</odePageId>
+      <odeBlockId>block-1778348418151-wdh32tcdg</odeBlockId>
+      <blockName>Evaluation criteria</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadh3-ut8b2c7ec</odePageId>
+          <odeBlockId>block-1778348418151-wdh32tcdg</odeBlockId>
+          <odeIdeviceId>idevice-1778348418148-lj83fft33</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778348418148-lj83fft33" title="" href="{{context_path}}/content/resources/Evaluation criteria_page-0001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Evaluation criteria_page-0001.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="https://docs.google.com/document/d/1QDmFaE_ZrbJYoCuxYq-NX98bavPFt8uBX2wE7nsfvEw/edit?usp=sharing" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778348418148-lj83fft33","img_0":{"img":"{{context_path}}/content/resources/Evaluation criteria_page-0001.jpg","thumbnail":"{{context_path}}/content/resources/Evaluation criteria_page-0001.jpg","title":"","linktitle":"","author":"","linkauthor":"https://docs.google.com/document/d/1QDmFaE_ZrbJYoCuxYq-NX98bavPFt8uBX2wE7nsfvEw/edit?usp=sharing","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozjadh4-iv8eu0n59</odePageId>
+  <odeParentPageId>page-mozjadh3-ut8b2c7ec</odeParentPageId>
+  <pageName>Assessment</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Assessment</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Assessment</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Assessment</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozjadh4-iv8eu0n59</odePageId>
+      <odeBlockId>block-1778346155824-a01semwmy</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadh4-iv8eu0n59</odePageId>
+          <odeBlockId>block-1778346155824-a01semwmy</odeBlockId>
+          <odeIdeviceId>idevice-1778346155818-axpp6qt03</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>In this section, you will find the assessment tools that will be used throughout the project. These tools will help evaluate not only your final work, but also your progress, participation and understanding of the different contents and activities. The aim is to make assessment clear, transparent and connected to the skills you will practise during the project.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778346155818-axpp6qt03","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>In this section, you will find the assessment tools that will be used throughout the project. These tools will help evaluate not only your final work, but also your progress, participation and understanding of the different contents and activities. The aim is to make assessment clear, transparent and connected to the skills you will practise during the project.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadh4-iv8eu0n59</odePageId>
+      <odeBlockId>block-1778346318547-7guznx4q0</odeBlockId>
+      <blockName>Assessment tools</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadh4-iv8eu0n59</odePageId>
+          <odeBlockId>block-1778346318547-7guznx4q0</odeBlockId>
+          <odeIdeviceId>idevice-1778346318535-nrrhx6pm1</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778346318535-nrrhx6pm1" title="" href="{{context_path}}/content/resources/qimono-gavel-2492011_1920.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/qimono-gavel-2492011_1920.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="https://pixabay.com/es/photos/mazo-subasta-ley-martillo-s%c3%admbolo-2492011/" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778346318535-nrrhx6pm1","img_0":{"img":"{{context_path}}/content/resources/qimono-gavel-2492011_1920.jpg","thumbnail":"{{context_path}}/content/resources/qimono-gavel-2492011_1920.jpg","title":"","linktitle":"","author":"","linkauthor":"https://pixabay.com/es/photos/mazo-subasta-ley-martillo-s%c3%admbolo-2492011/","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadh4-iv8eu0n59</odePageId>
+      <odeBlockId>block-1778345918548-jl0vxj417</odeBlockId>
+      <blockName>1. Grammar Auction: Conditionals Challenge</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadh4-iv8eu0n59</odePageId>
+          <odeBlockId>block-1778345918548-jl0vxj417</odeBlockId>
+          <odeIdeviceId>idevice-1778345918541-dn66d7qks</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Your understanding and use of English conditionals will also be assessed through a dynamic grammar game: a <a href="https://canva.link/7dxdxx8xdi844lv" target="_blank" title="" rel="noopener">Grammar Auction</a>. In this activity, you will work in teams and “buy” sentences that you think are grammatically correct. Some sentences will contain mistakes, so you will need to analyse them carefully before making decisions.</p>
+<p>This activity will help you practise conditionals in a more interactive and collaborative way while developing your critical thinking and grammatical accuracy.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778345918541-dn66d7qks","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Your understanding and use of English conditionals will also be assessed through a dynamic grammar game: a <a href=\"https://canva.link/7dxdxx8xdi844lv\" target=\"_blank\" title=\"\" rel=\"noopener\">Grammar Auction</a>. In this activity, you will work in teams and “buy” sentences that you think are grammatically correct. Some sentences will contain mistakes, so you will need to analyse them carefully before making decisions.</p>\n<p>This activity will help you practise conditionals in a more interactive and collaborative way while developing your critical thinking and grammatical accuracy.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozjadh4-iv8eu0n59</odePageId>
+      <odeBlockId>block-1778346045127-aj8tqlvlo</odeBlockId>
+      <blockName>2. Oral Presentation Assessment</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadh4-iv8eu0n59</odePageId>
+          <odeBlockId>block-1778346045127-aj8tqlvlo</odeBlockId>
+          <odeIdeviceId>idevice-1778346045122-ij2iisyqi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Your final group presentation will be assessed using the official rubric from the Andalusian Certification Exams for Official Language Schools. During your presentation, attention will be paid to aspects such as fluency, pronunciation, clarity and organisation of ideas, interaction with your classmates, and the correct use of grammar and vocabulary at B2 level.</p>
+<p>The aim of this assessment is not only to evaluate your final performance, but also to help you improve your communication skills in real and meaningful situations.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778346045122-ij2iisyqi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Your final group presentation will be assessed using the official rubric from the Andalusian Certification Exams for Official Language Schools. During your presentation, attention will be paid to aspects such as fluency, pronunciation, clarity and organisation of ideas, interaction with your classmates, and the correct use of grammar and vocabulary at B2 level.</p>\n<p>The aim of this assessment is not only to evaluate your final performance, but also to help you improve your communication skills in real and meaningful situations.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozjadh5-r3au1ide5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Credits</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Credits</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Credits</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozjadh5-r3au1ide5</odePageId>
+      <odeBlockId>block-1778405427537-g7m10l6lx</odeBlockId>
+      <blockName></blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozjadh5-r3au1ide5</odePageId>
+          <odeBlockId>block-1778405427537-g7m10l6lx</odeBlockId>
+          <odeIdeviceId>idevice-1778405427530-aqw2ai7n2</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>General information about this educational resource</caption>
+<tbody>
+<tr>
+<th>Title</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">What If Technology Fails?</span></td>
+</tr>
+<tr>
+<th>Description</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Students reflect on the use of technology and social media in their daily lives and in digital communication. Based on real or hypothetical situations, they will analyze issues such as: misunderstandings on social media, technical failures, excessive use of technology, difficulties in online communication.
+
+Through these situations, they will work on conditional sentences in order to: describe situations, analyze consequences, propose solutions.</span></td>
+</tr>
+<tr>
+<th>Authorship</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Carolina Castro Moreno</span></td>
+</tr>
+<tr>
+<th>License</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">This content was created with <a href="https://exelearning.net/">eXeLearning</a>, your free and open source editor to create educational resources.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Download .elpx file</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
